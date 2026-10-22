@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Hard Shadow -->
+  <path d="M10 8 C10 5.79 11.79 4 14 4 H30 L42 16 V40 C42 42.21 40.21 44 38 44 H14 C11.79 44 10 42.21 10 40 Z" fill="#000000" transform="translate(3, 3)"/>
+  <!-- File Body -->
+  <path d="M10 8 C10 5.79 11.79 4 14 4 H30 L42 16 V40 C42 42.21 40.21 44 38 44 H14 C11.79 44 10 42.21 10 40 Z" fill="#FFE66D" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Folded Corner -->
+  <path d="M30 4 V16 H42" fill="#FFDE59" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Conversion arrows inside document -->
+  <path d="M18 24 H30 M26 20 L30 24 L26 28" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 32 H18 M22 28 L18 32 L22 36" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
